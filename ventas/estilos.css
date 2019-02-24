@@ -1,0 +1,20 @@
+table{
+	text-align: center;
+	margin: 0px;
+	width: 500px;
+	border: 1px solid #867E7C;
+}
+td{
+	margin: 0px;
+	border: 1px solid #867E7C;
+}
+#hide{
+	display: none;
+}
+
+.mas{
+	cursor: pointer;
+	height: 15px;
+	padding: 0px;
+	float: left;
+}
